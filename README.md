@@ -8,10 +8,7 @@
 
 ### 🔧 Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>  
 
 ---
 
@@ -22,5 +19,5 @@
 
 ### 📫 연락
 [이메일 보내기](mailto:ds5ego03@gmail.com)  
-[LinkedIn 프로필](https://www.linkedin.com/in/yujin-lee-75033a195/)
-[My blog 보기](https://dataanalysis-yujin-lee.tistory.com/)
+[LinkedIn 프로필](https://www.linkedin.com/in/yujin-lee-75033a195/)  
+[My blog 보기](https://dataanalysis-yujin-lee.tistory.com/)  
