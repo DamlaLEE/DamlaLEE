@@ -16,7 +16,7 @@
 
 ---
 
-### 📫 연락
+### 📫 Contact
 [email address](mailto:ds5ego03@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/yujin-lee-75033a195/)  
 [My blog](https://dataanalysis-yujin-lee.tistory.com/)  
