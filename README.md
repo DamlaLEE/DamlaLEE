@@ -1,8 +1,7 @@
-### 안녕하세요! 👋 저는 Data Scientist Yujin LEE입니다
+### Hi! 👋 I'm Data Scientist Yujin LEE, Welecome to my Github!
 
-📊 데이터 분석가 & 머신러닝 & 딥러닝  
-🎯 현재 목표: 모델링 실습 5개 돌파하기  
-🌏 지역: South Korea, Busan | 🇰🇷  
+📊 Data alaysist, ML, Deep Learning  
+🌏 Location: South Korea, Busan | 🇰🇷  
 
 ---
 
@@ -18,6 +17,6 @@
 ---
 
 ### 📫 연락
-[이메일 보내기](mailto:ds5ego03@gmail.com)  
-[LinkedIn 프로필](https://www.linkedin.com/in/yujin-lee-75033a195/)  
-[My blog 보기](https://dataanalysis-yujin-lee.tistory.com/)  
+[email address](mailto:ds5ego03@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/yujin-lee-75033a195/)  
+[My blog](https://dataanalysis-yujin-lee.tistory.com/)  
