@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Data Scientist Yujin LEE, Welecome to my Github!
+### Hi! 👋 I'm Yujin Lee, a data scientist. Welcome to my Github!
 
 📊 Data alaysist, ML, Deep Learning  
 🌏 Location: South Korea, Busan | 🇰🇷  
