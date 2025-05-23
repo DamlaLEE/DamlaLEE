@@ -21,4 +21,6 @@
 ### 📊 GitHub Stats
 ![Damla's GitHub stats](https://github-readme-stats.vercel.app/api?username=damlaLEE&show_icons=true&theme=dark)
 
-<img src="https://profile-counter.glitch.me/your-username/count.svg" />
+### Count of visiting
+<img src="https://profile-counter.glitch.me/DamlaLEE/count.svg" />
+
